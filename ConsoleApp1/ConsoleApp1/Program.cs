@@ -12,6 +12,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Информация о собаке");
+            Console.WriteLine("======================================");
             Dog dg1 = new Dog();
             dg1.Input();
             Console.WriteLine();
