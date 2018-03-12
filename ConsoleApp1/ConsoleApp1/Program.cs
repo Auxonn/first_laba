@@ -16,6 +16,7 @@ namespace ConsoleApp1
             dg1.Input();
             Console.WriteLine();
             Console.WriteLine("Информация о собаке");
+            Console.WriteLine("======================================");
             dg1.Print();
             Console.ReadKey();
         }
